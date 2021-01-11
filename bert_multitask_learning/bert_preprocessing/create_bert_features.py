@@ -4,7 +4,6 @@ __all__ = ['seq_tag_label_handling', 'pad_wrapper', 'convert_labels_to_ids', 'cr
            'create_bert_pretraining', 'mask_inputs_for_mask_lm', 'create_multimodal_bert_features',
            'create_bert_features_generator', 'create_multimodal_bert_features_generator', 'LOGGER']
 
-# Cell
 import random
 
 import numpy as np
